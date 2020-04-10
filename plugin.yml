@@ -51,7 +51,7 @@ permissions:
                 description: "Spawns a big tree"
             essentials.break:
                 default: false
-                description: "Breaks the block you're looking at"
+                description: "Breaks the block you're looking t"
                 children:
                     essentials.break.use:
                         default: op
